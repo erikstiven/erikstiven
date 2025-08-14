@@ -1,21 +1,20 @@
-# ¡Hola! Soy Erik Quisnia 👋
+# ¡Hola, soy Erik Quisnia! 👋
 
-👨‍💻 Ingeniero de Software · 🚀 Desarrollador Full Stack · 💡 Apasionado por la tecnología y la innovación
-
----
-
-## Acerca de mí
-
-🎓 **Ingeniero de Software** con un enfoque sólido en el desarrollo de soluciones web modernas, escalables y eficientes.  
-💻 Apasionado por **el desarrollo frontend y backend**, siempre siguiendo buenas prácticas y garantizando una experiencia de usuario excepcional.  
-⚙️ Me encanta **automatizar procesos** y **optimizar flujos de trabajo**, asegurando que el código sea limpio, mantenible y eficiente.  
-🤝 Disfruto **trabajar en equipo** y aportar soluciones que realmente marquen la diferencia.
+👨‍💻 Desarrollador Full Stack | 🚀 Apasionado por la tecnología | 💡 Creando soluciones con código
 
 ---
 
-## Mis Estadísticas en GitHub
+## Sobre mí
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=erikstiven&theme=dark&hide_border=true&locale=es&short_numbers=true)](https://git.io/streak-stats)
+Soy un **Desarrollador Full Stack** con experiencia en diversas tecnologías y con pasión por el desarrollo de aplicaciones web modernas y escalables. Me encanta resolver problemas complejos con código limpio y eficiente, siempre buscando la mejor solución posible para cada desafío.
+
+---
+
+## Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=erikstiven&theme=dark&hide_border=true&locale=es&short_numbers=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -24,13 +23,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,vite,jquery,php,laravel,nodejs,express,sequelize,postgres,mysql,docker,git,github,postman,jest,figma" />
 </p>
-
----
-
-## ¿Cómo Puedo Ayudarte?
-
-💡 Con mi experiencia en **desarrollo full stack**, puedo ayudarte a crear aplicaciones web robustas, eficientes y bien estructuradas.  
-🚀 Desde el **diseño de la interfaz** hasta el **backend más complejo**, me apasiona encontrar soluciones optimizadas que se ajusten a tus necesidades.
 
 ---
 
