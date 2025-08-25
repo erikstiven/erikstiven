@@ -10,14 +10,6 @@ Soy un **Desarrollador Full Stack** con experiencia en diversas tecnologías y c
 
 ---
 
-## Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=erikstiven&theme=dark&hide_border=true&locale=es&short_numbers=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## Tecnologías y Herramientas
 
 <p align="center">
