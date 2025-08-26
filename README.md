@@ -15,8 +15,7 @@ Soy un **Desarrollador Full Stack** con experiencia en diversas tecnologías y c
 <p align="center">
   <!-- iconos via skillicons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,php,laravel,nodejs,express,postgres,mysql,docker,git,github,postman,jest,figma" alt="Tech icons" />
-  <!-- icono local C# -->
-  <img src="./assets/icons/csharp.svg" alt="C#" width="36" height="36" style="margin-left:8px" />
+
 </p>
 
 ---
