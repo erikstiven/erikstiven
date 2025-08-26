@@ -13,7 +13,11 @@ Soy un **Desarrollador Full Stack** con experiencia en diversas tecnologías y c
 ## Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,vite,jquery,php,laravel,nodejs,express,sequelize,postgres,mysql,docker,git,github,postman,jest,figma" />
+  <img
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,vite,jquery,php,laravel,nodejs,express,sequelize,postgres,mysql,docker,git,github,postman,jest,figma,csharp"
+  alt="HTML CSS JS TS React Redux Next Tailwind Vite jQuery PHP Laravel Node Express Sequelize Postgres MySQL Docker Git GitHub Postman Jest Figma C#"
+/>
+
 </p>
 
 ---
