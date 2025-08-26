@@ -13,28 +13,7 @@ Soy un **Desarrollador Full Stack** con experiencia en diversas tecnologías y c
 ## Tecnologías y Herramientas
 
 <p align="center">
-  <img
-  src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.1/icons/csharp.svg"
-  alt="C#"
-  width={24}
-  height={24}
-  onError={(e) => {
-    const img = e.currentTarget as HTMLImageElement;
-    const fallbacks = [
-      '/icons/csharp.svg', // local
-      'https://raw.githubusercontent.com/simple-icons/simple-icons/main/icons/csharp.svg',
-      'https://skillicons.dev/icons?i=csharp'
-    ];
-    const step = Number(img.dataset.step || 0);
-    const next = fallbacks[step];
-    if (next) {
-      img.dataset.step = String(step + 1);
-      img.src = next;
-    }
-  }}
-/>
-
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,php,laravel,nodejs,express,postgres,mysql,docker,git,github,postman,jest,figma,csharp" alt="Tech icons" />
 </p>
 
 ---
